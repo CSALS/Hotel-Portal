@@ -4,4 +4,5 @@ This portal will enable the users to compare the prices of available rooms in ho
 
 ## Tools used
   IDE - Eclipse
+  Database - MySQL using XAMPP
    
