@@ -1,0 +1,4 @@
+COLOR CODES
+
+Sky Blue: RGB (59,203,232)
+Dark Grey: RGB (112, 112, 112)
